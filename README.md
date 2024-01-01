@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @nikhilbansal23
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning BI Tools like Tableau ([Check my Tableau Vizes]([https://www.example.com](https://public.tableau.com/app/profile/nikhil.bansal5133/vizzes))
+- 🌱 I’m currently learning BI Tools like Tableau ([Check my Tableau Vizes](https://public.tableau.com/app/profile/nikhil.bansal5133/vizzes)
 )
 - 💞️ I’m looking to collaborate on Data Science, Engineering, Machine Learning, NLP, Image Classification
-- 📫 How to reach me ... You can reach me on contact2nikhilbansal@gmail.com or [DM me on Linkedin]([https://www.example.com](https://www.linkedin.com/in/nikhil-bansal21/))
+- 📫 How to reach me ... You can reach me on contact2nikhilbansal@gmail.com or [DM me on Linkedin](https://www.example.com](https://www.linkedin.com/in/nikhil-bansal21/)
  
 
 <!---
