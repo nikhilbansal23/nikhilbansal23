@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning BI Tools like Tableau ([Check my Tableau Vizes](https://public.tableau.com/app/profile/nikhil.bansal5133/vizzes)
 )
 - 💞️ I’m looking to collaborate on Data Science, Engineering, Machine Learning, NLP, Image Classification
-- :fountain_pen: I also love to write, Check my [Medium] (https://medium.com/@contact2nikhilbansal)
+- :fountain_pen: I also love to write, Check my [Medium](https://medium.com/@contact2nikhilbansal)
 - 📫 How to reach me ... You can reach me on contact2nikhilbansal@gmail.com or [DM me on Linkedin](https://www.linkedin.com/in/nikhil-bansal21/)
  
 
