@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nikhilbansal23
+- 👋 Hi, I’m Nikhil
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning BI Tools like Tableau ([Check my Tableau Vizes](https://public.tableau.com/app/profile/nikhil.bansal5133/vizzes))
 - 👨‍💻 I also code on [Kaggle](https://www.kaggle.com/bansalnikhil21)
